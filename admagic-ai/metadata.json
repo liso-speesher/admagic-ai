@@ -1,0 +1,7 @@
+{
+  "name": "AdMagic AI - Creative Director app anuncios",
+  "description": "Transform your product images into professional, high-converting advertisements with the power of AI creative direction.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
